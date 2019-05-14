@@ -1,4 +1,4 @@
-module github.com/HtLord/model
+module github.com/HtLord/serv/model
 
 go 1.12
 

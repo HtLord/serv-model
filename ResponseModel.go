@@ -1,4 +1,4 @@
-package servmodel
+package model
 
 type DocExist struct {
 	IsExist bool
